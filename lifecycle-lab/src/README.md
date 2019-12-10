@@ -1,0 +1,10 @@
+## Phases
+- Mounting
+    1. Constructor
+    2. Render
+    3. ComponentDidMount
+- Updating 
+    1. Render
+    2. ComponentDidUpdate
+- Unmounting
+    1. ComponentWillUnmount
